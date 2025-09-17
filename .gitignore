@@ -107,6 +107,8 @@ Desktop.ini
 
 # Gradle Wrapper
 gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.zip
+gradle/wrapper/gradle-8.4/
 
 # NDK
 obj/
