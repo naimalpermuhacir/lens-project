@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Exclude sensitive Kubernetes configurations from cloud backup -->
+        <exclude domain="sharedpref" path="kubernetes_configs.xml"/>
+        <exclude domain="database" path="openlens_database"/>
+    </cloud-backup>
+    <device-transfer>
+        <!-- Allow device transfer of non-sensitive data -->
+        <include domain="sharedpref" path="app_preferences.xml"/>
+    </device-transfer>
+</data-extraction-rules>

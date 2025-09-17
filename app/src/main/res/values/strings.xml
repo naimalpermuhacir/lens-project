@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenLens</string>
+    
+    <!-- Navigation -->
+    <string name="nav_clusters">Clusters</string>
+    <string name="nav_workloads">Workloads</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_storage">Storage</string>
+    <string name="nav_config">Config</string>
+    <string name="nav_monitoring">Monitoring</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Cluster Management -->
+    <string name="add_cluster">Add Cluster</string>
+    <string name="cluster_name">Cluster Name</string>
+    <string name="cluster_url">Cluster URL</string>
+    <string name="kubeconfig">Kubeconfig</string>
+    <string name="import_kubeconfig">Import Kubeconfig</string>
+    <string name="export_kubeconfig">Export Kubeconfig</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="delete_cluster">Delete Cluster</string>
+    
+    <!-- Workloads -->
+    <string name="pods">Pods</string>
+    <string name="deployments">Deployments</string>
+    <string name="statefulsets">StatefulSets</string>
+    <string name="daemonsets">DaemonSets</string>
+    <string name="replicasets">ReplicaSets</string>
+    <string name="jobs">Jobs</string>
+    <string name="cronjobs">CronJobs</string>
+    
+    <!-- Services -->
+    <string name="services">Services</string>
+    <string name="ingresses">Ingresses</string>
+    <string name="endpoints">Endpoints</string>
+    <string name="network_policies">Network Policies</string>
+    
+    <!-- Storage -->
+    <string name="persistent_volumes">Persistent Volumes</string>
+    <string name="persistent_volume_claims">Persistent Volume Claims</string>
+    <string name="storage_classes">Storage Classes</string>
+    
+    <!-- Config -->
+    <string name="configmaps">ConfigMaps</string>
+    <string name="secrets">Secrets</string>
+    <string name="service_accounts">Service Accounts</string>
+    <string name="roles">Roles</string>
+    <string name="role_bindings">Role Bindings</string>
+    
+    <!-- Common -->
+    <string name="namespace">Namespace</string>
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+    <string name="age">Age</string>
+    <string name="ready">Ready</string>
+    <string name="restarts">Restarts</string>
+    <string name="logs">Logs</string>
+    <string name="terminal">Terminal</string>
+    <string name="describe">Describe</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    
+    <!-- Status -->
+    <string name="running">Running</string>
+    <string name="pending">Pending</string>
+    <string name="succeeded">Succeeded</string>
+    <string name="failed">Failed</string>
+    <string name="unknown">Unknown</string>
+    <string name="terminating">Terminating</string>
+    
+    <!-- Errors -->
+    <string name="error_connection_failed">Connection failed</string>
+    <string name="error_invalid_kubeconfig">Invalid kubeconfig</string>
+    <string name="error_network_unavailable">Network unavailable</string>
+    <string name="error_unauthorized">Unauthorized access</string>
+    <string name="error_cluster_not_found">Cluster not found</string>
+    
+    <!-- Settings -->
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+    <string name="auto_refresh">Auto Refresh</string>
+    <string name="refresh_interval">Refresh Interval</string>
+    <string name="notifications">Notifications</string>
+    <string name="about">About</string>
+    
+    <!-- Monitoring -->
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="memory_usage">Memory Usage</string>
+    <string name="network_usage">Network Usage</string>
+    <string name="events">Events</string>
+    <string name="metrics">Metrics</string>
+    
+</resources>

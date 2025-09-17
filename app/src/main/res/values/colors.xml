@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- OpenLens Colors -->
+    <color name="openlens_primary">#FF1976D2</color>
+    <color name="openlens_primary_dark">#FF0D47A1</color>
+    <color name="openlens_secondary">#FF26A69A</color>
+    <color name="openlens_accent">#FFFF5722</color>
+    
+    <!-- Status Colors -->
+    <color name="status_running">#FF4CAF50</color>
+    <color name="status_pending">#FFFF9800</color>
+    <color name="status_failed">#FFF44336</color>
+    <color name="status_succeeded">#FF2196F3</color>
+    <color name="status_unknown">#FF9E9E9E</color>
+    <color name="status_terminating">#FFE91E63</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FFF5F5F5</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#DE000000</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_light">#99000000</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+</resources>
