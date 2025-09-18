@@ -130,12 +130,12 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: 
+- Email: 
 
 ## 🐛 Bug Reports
 
-Bug raporları için [Issues](https://github.com/yourusername/lens-project/issues) sayfasını kullanın.
+Bug raporları için [Issues](https://github.com/naimalpermuhacir/lens-project/issues) sayfasını kullanın.
 
 ## 📈 Roadmap
 
